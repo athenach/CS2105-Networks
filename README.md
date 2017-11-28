@@ -1,5 +1,28 @@
 # CS2105-Networks
-:bookmark_tabs: :books: Programs Related to Introduction to Network
+Programs Related to Introduction to Network
+
+## View Assignemnts Directly 
+
+* [Assignement 0- Basic Java Programs for Networking Concepts] (https://github.com/tshradheya/CS2105-Networks/blob/master/assignment0)
+
+** [Checksum.java](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment0/Checksum.java)
+** [Copier.java](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment0/Copier.java)
+** [IPAddress.java](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment0/IPAddress.java)
+
+* [Assignement 1- Web Server to handle HTTP Requests] (https://github.com/tshradheya/CS2105-Networks/blob/master/assignment1)
+
+** [WebServer.java](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment1/WebServer.java)
+
+* [Assignement 2 - Implementing Stop and Wait Reliable protocol on UDP] (https://github.com/tshradheya/CS2105-Networks/blob/master/assignment2)
+
+** [Alice.java](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment2/Alice.java)
+** [Bob.java](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment2/Bob.java)
+
+* [Assignement 3- Security for sending messages using Ecryption] (https://github.com/tshradheya/CS2105-Networks/blob/master/assignment3)
+
+** [Alice.java](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment3/Alice.java)
+
+
 
 
 ## Warnings
