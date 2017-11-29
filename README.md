@@ -23,7 +23,7 @@ Programs Related to Introduction to Network
 
 * [Assignement 3- Security for sending messages using Ecryption](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment3)
 
-1. [Alice.java](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment3/Alice.java)
+1. [Alice.java](https://github.com/tshradheya/CS2105-Networks/blob/master/assignment3/alice/Alice.java)
 
 
 
